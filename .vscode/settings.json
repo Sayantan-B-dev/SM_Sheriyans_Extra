@@ -1,0 +1,6 @@
+{
+    "C_Cpp.copilotHover": "enabled",
+    "github.copilot.chat.useResponsesApi": true,
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "editor.inlineSuggest.experimental.showOnSuggestConflict": "always",
+}
